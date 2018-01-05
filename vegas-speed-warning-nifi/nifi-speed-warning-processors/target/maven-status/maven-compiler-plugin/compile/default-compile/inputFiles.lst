@@ -1,0 +1,6 @@
+/Users/sbomma/IdeaProjects/vegas-speed-warning-nifi/nifi-speed-warning-processors/src/main/java/com/hortonworks/federal/processors/speedwarning/SpeedWarning.java
+/Users/sbomma/IdeaProjects/vegas-speed-warning-nifi/nifi-speed-warning-processors/src/main/java/com/hortonworks/federal/processors/speedwarning/HighRiskWarning.java
+/Users/sbomma/IdeaProjects/vegas-speed-warning-nifi/nifi-speed-warning-processors/src/main/java/com/hortonworks/federal/processors/speedwarning/GeneralWarningPojo.java
+/Users/sbomma/IdeaProjects/vegas-speed-warning-nifi/nifi-speed-warning-processors/src/main/java/com/hortonworks/federal/processors/speedwarning/OptionalPojo.java
+/Users/sbomma/IdeaProjects/vegas-speed-warning-nifi/nifi-speed-warning-processors/src/main/java/com/hortonworks/federal/processors/speedwarning/WarningPojo.java
+/Users/sbomma/IdeaProjects/vegas-speed-warning-nifi/nifi-speed-warning-processors/src/main/java/com/hortonworks/federal/processors/speedwarning/AbstractVegasProcessor.java
